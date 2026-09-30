@@ -16,6 +16,7 @@ spec:
       containers:
         - name: mongo
           image: mongo
+          
 ---
 apiVersion: v1
 kind: Service
